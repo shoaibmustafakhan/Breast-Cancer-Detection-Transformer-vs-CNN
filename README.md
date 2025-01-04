@@ -2,6 +2,8 @@
 
 This repository contains the code and research findings for a comparative study between two deep learning architectures, Swin Transformer and ResNet, for breast cancer detection using mammography images.
 
+Important Note: NONE OF THESE MODELS ARE SUBSTITUTE FOR PRACTICAL MEDICAL ADVISORY. PLEASE CONSULT A LICENSED MEDICAL PRACTITIONER FOR CONSULTATION.
+
 ## Abstract
 This ongoing experimental study evaluates the performance of Swin Transformer and ResNet architectures on the CBIS-DDSM dataset for breast cancer detection. The models were compared based on classification metrics, including accuracy, precision, recall, and F1-score. The Swin Transformer showed high sensitivity for benign cases, while ResNet demonstrated more balanced performance across benign and malignant classifications.
 
